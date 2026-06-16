@@ -1,0 +1,2 @@
+# Dice-game
+zar oʻyini
